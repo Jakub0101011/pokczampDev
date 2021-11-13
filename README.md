@@ -1,6 +1,6 @@
 # 👋 Hello i'm pokczamp
-<h3 align="center">Actually Contact Discord: pokczamp#0320 <img src = "https://emoji.gg/assets/emoji/5390-discordlogo.png" width = 20px></h3>
 <h1 align="center">Developer & Discord Bot Developer</h1>
+<h3 align="center"><img src = "https://emoji.gg/assets/emoji/5390-discordlogo.png" width = 20px> Actually Contact Discord: pokczamp#0320</h3>
 <!--
 **pokczampDev/pokczampDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
