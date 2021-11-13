@@ -1,6 +1,6 @@
 # 👋 Hello i'm pokczamp
-<h2 align="center">Developer & <img src = "https://emoji.gg/assets/emoji/5591-discord-developer-badge-shimmer.gif" width = 20px>  Discord Bot Developer</h2>
-
+<h3 align="center">Developer & <img src = "https://emoji.gg/assets/emoji/5591-discord-developer-badge-shimmer.gif" width = 30px>  Discord Bot Developer</h3>
+<img src = "https://emoji.gg/assets/emoji/8744-specialroles.png" width = 20px> Concant Discord: pokczamp#0320
 <!--
 **pokczampDev/pokczampDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
