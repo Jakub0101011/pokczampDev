@@ -1,4 +1,6 @@
 ### Hi there 👋
+<h1 align="center">PokczampDev</h1>
+<h3 align="center">Developer & Discord Bot Developer</h3>
 
 <!--
 **pokczampDev/pokczampDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
