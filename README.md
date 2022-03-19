@@ -1,3 +1,10 @@
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/pokczampDev/count.svg" />
+</p>
+
+---
+
 # 👋 Hello i'm pokczamp
 <h1 align="center">Developer & Discord Bot Developer</h1>
 <h3 align="center"><img src = "https://emoji.gg/assets/emoji/5390-discordlogo.png" width = 20px> Contact Discord: pokczamp#0320</h3>
