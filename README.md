@@ -1,6 +1,4 @@
-<img src = "https://media.giphy.com/media/Y7wJNwws4hHUzUzhCN/giphy.gif" width=1231px>
 
----
 
 <h3 align="center">Visitor's count 👀</h3>
 <p align="center"> 
