@@ -1,4 +1,9 @@
+<p align="center">Merry christmas 2022</p>
+<p align="center">
+<img src="https://i.pinimg.com/originals/64/d6/68/64d668edefd478d2e854b8f85860c38d.gif" alt="xmas" width="180px"/>
+</p>
 
+---
 
 <h3 align="center">Visitor's count 👀</h3>
 <p align="center"> 
