@@ -36,7 +36,7 @@
 ---
 
 <h1 align="center">My passion is programming... 👨‍💻</h1>
-<h3 align="center"><img src = "https://emoji.gg/assets/emoji/5390-discordlogo.png" width = 20px> Contact Discord: Джейкоб;#0320</h3>
+<h3 align="center"><img src = "https://emoji.gg/assets/emoji/5390-discordlogo.png" width = 20px> Contact Discord: Jakub0101011;#0320</h3>
 <!--
 **pokczampDev/pokczampDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
